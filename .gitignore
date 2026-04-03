@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+env_rag_llm_system/
+venv/
+.env/
+
+# Secrets
+.env
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data (optional - keep raw data out)
+data/raw/
+
+# FAISS index (large files)
+*.index
+
+# Experiment outputs
+experiments/*.csv
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
