@@ -6,6 +6,7 @@ __pycache__/
 
 # Virtual Environment
 env_rag_llm_system/
+env_rag_llm_system_310/
 venv/
 .env/
 
