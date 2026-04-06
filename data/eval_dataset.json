@@ -1,0 +1,77 @@
+[
+  {
+    "question": "What is credit risk?",
+    "expected_answer": "Credit risk is the risk that a borrower will fail to repay a loan or meet contractual obligations.",
+    "context_hint": "credit risk definition"
+  },
+  {
+    "question": "What is a non-performing asset?",
+    "expected_answer": "A non-performing asset is a loan where the borrower has not made interest or principal payments for a specified period.",
+    "context_hint": "NPA definition"
+  },
+  {
+    "question": "What is loan classification?",
+    "expected_answer": "Loan classification is the process of categorizing loans based on their performance and risk levels.",
+    "context_hint": "loan classification"
+  },
+  {
+    "question": "What is collateral?",
+    "expected_answer": "Collateral is an asset pledged by a borrower to secure a loan and reduce lender risk.",
+    "context_hint": "collateral meaning"
+  },
+  {
+    "question": "What is default in banking?",
+    "expected_answer": "Default occurs when a borrower fails to meet repayment obligations as per the loan agreement.",
+    "context_hint": "default definition"
+  },
+  {
+    "question": "What is interest rate?",
+    "expected_answer": "Interest rate is the percentage charged by a lender on the borrowed amount over time.",
+    "context_hint": "interest rate definition"
+  },
+  {
+    "question": "What is principal amount?",
+    "expected_answer": "Principal is the original sum of money borrowed or invested, excluding interest.",
+    "context_hint": "principal definition"
+  },
+  {
+    "question": "What is credit score?",
+    "expected_answer": "A credit score is a numerical representation of a borrower’s creditworthiness based on credit history.",
+    "context_hint": "credit score"
+  },
+  {
+    "question": "What is risk management in banking?",
+    "expected_answer": "Risk management in banking involves identifying, assessing, and mitigating financial risks.",
+    "context_hint": "risk management"
+  },
+  {
+    "question": "What is exposure in credit risk?",
+    "expected_answer": "Exposure is the total amount a lender stands to lose if a borrower defaults.",
+    "context_hint": "exposure definition"
+  },
+  {
+    "question": "What is probability of default?",
+    "expected_answer": "Probability of default is the likelihood that a borrower will default on a loan within a given time period.",
+    "context_hint": "PD definition"
+  },
+  {
+    "question": "What is loss given default?",
+    "expected_answer": "Loss given default is the proportion of exposure that is lost when a borrower defaults.",
+    "context_hint": "LGD definition"
+  },
+  {
+    "question": "What is exposure at default?",
+    "expected_answer": "Exposure at default is the total value a lender is exposed to when a borrower defaults.",
+    "context_hint": "EAD definition"
+  },
+  {
+    "question": "What is provisioning in banking?",
+    "expected_answer": "Provisioning is setting aside funds by banks to cover potential loan losses.",
+    "context_hint": "provisioning"
+  },
+  {
+    "question": "What is RBI?",
+    "expected_answer": "The Reserve Bank of India is the central banking institution responsible for regulating monetary policy in India.",
+    "context_hint": "RBI definition"
+  }
+]
