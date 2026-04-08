@@ -28,7 +28,7 @@ if CONFIG["groq"] is None:
 # INITIALISE SYSTEM
 # ----------------------------
 print("Loading documents...")
-text = load_pdf(rf"{Path(__file__).resolve().parent.parent}\data\raw\sample.pdf")
+text = load_pdf(rf"{Path(__file__).resolve().parent.parent}\data\raw\Rbi_Master_Circular.pdf")
 
 print("Chunking...")
 chunks = chunk_text(text)
